@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InfoDay</string>
+    <string name="hkbu_logo">HKBU logo </string>
+    <string name="inventory_icon">Inventory Icon </string>
+    <string name="gaming_background">Gaming Background</string>
+</resources>
