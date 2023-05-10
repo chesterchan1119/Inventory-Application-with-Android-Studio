@@ -1,14 +1,8 @@
-# comp4107-spring2023-inventoryapp-20202326ChanCheukHim
-comp4107-spring2023-inventoryapp-20202326ChanCheukHim created by GitHub Classroom
-
-# Link of Demo
-https://lifehkbueduhk-my.sharepoint.com/:f:/g/personal/20202326_life_hkbu_edu_hk/Eq8a_I4I8y1LswWOKcs0aE8BgIyJ8v1t1m7JAGcPCVwfpw?e=yv0vxX
-
+# Inventory Appplication with Android Studio
 
 
 
 ## Tab 1: Item Types
-
 
 
 The first tab have four types, `Games`, `Gifts`, `Materials`, and `Books`, with a list view. Clicking each item would navigate to another list view, showing all the items as returned by the API server.
@@ -72,7 +66,7 @@ The third tab should allow the user to log in. Only logged-in users can borrow, 
 
 
 ## Limitation
-1. Sometimes, it might need 2 times of rendering to fetch the visualised data.
-2. The search have to used with filter bar
+1. Sometimes, it might need 2 times of rendering to fetch the visualised Search Result.
+2. Filter bar is required with the Searching System
 
 
