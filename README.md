@@ -1,4 +1,4 @@
-# Inventory Appplication with Android Studio
+# Inventory Application with Android Studio
 
 
 
